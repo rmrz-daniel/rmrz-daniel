@@ -11,10 +11,10 @@ Software Dev Student at <a href="https://www.sait.ca/">S.A.I.T</a>
 ```javascript
 const rmrz = {
   gamer: true,
-  code: [Javascript, Typescript, HTML, CSS, SQL, PLSQL, Java],
+  code: [Javascript, HTML, CSS, SQL, PLSQL, Java],
   tools: [React, Node, Mongo],
   architecture: undefined,
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "Contribute to open-source projects"
 }
 ```
 
