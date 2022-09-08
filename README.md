@@ -4,7 +4,7 @@
 Software Dev Student at <a href="https://www.sait.ca/">S.A.I.T</a>
 </em></p>
 
-[![Linkedin: rmrz-daniel](https://img.shields.io/badge/-rmrz-daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmrz-daniel/)](https://www.linkedin.com/in/rmrz-daniel/)
+<a href="https://www.linkedin.com/in/rmrz-daniel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
