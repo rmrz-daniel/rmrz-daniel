@@ -13,7 +13,7 @@ Let's work together,
 ```javascript
 const rmrz = {
   gamer: true,
-  education: "<a href="https://www.sait.ca/">S.A.I.T</a> Graduate"
+  education: "S.A.I.T Graduate "
   code: [Javascript, HTML, CSS, SQL, PLSQL, Java, Rust],
   tools: [React, Node, Mongo, Tauri, Tailwind, Astro],
   architecture: undefined,
