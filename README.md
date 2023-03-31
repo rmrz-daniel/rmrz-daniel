@@ -11,8 +11,9 @@ Software Dev Student at <a href="https://www.sait.ca/">S.A.I.T</a>
 ```javascript
 const rmrz = {
   gamer: true,
-  code: [Javascript, HTML, CSS, SQL, PLSQL, Java],
-  tools: [React, Node, Mongo],
+  education: "S.A.I.T Graduate"
+  code: [Javascript, HTML, CSS, SQL, PLSQL, Java, Rust],
+  tools: [React, Node, Mongo, Tauri, Tailwind, Astro],
   architecture: undefined,
   challenge: "Contribute to open-source projects"
 }
